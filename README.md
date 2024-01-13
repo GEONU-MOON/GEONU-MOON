@@ -6,7 +6,7 @@
 
 |제목|설명|인원|기간|기술|Github|예시|
 |:---|:---|:---|:---|:---|:---|:---|
-| jungle | SW사관학교 정글 | 개인 | 2023.01.07- | Python, Flask | <a href="https://github.com/GEONU-MOON/jungle" target="_blank">Repository</a> | <img height="130" alt="메인1" src="https://swjungle.net/static/image/ogimage.png"> |
+| jungle | SW사관학교 정글 | 개인 | 2024.01.07- | Python, Flask | <a href="https://github.com/GEONU-MOON/jungle" target="_blank">Repository</a> | <img height="130" alt="메인1" src="https://swjungle.net/static/image/ogimage.png"> |
 
 
 - 나홀로 메모장 (배포 단계) | 2024.01.13 ~
