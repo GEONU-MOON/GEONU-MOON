@@ -25,7 +25,7 @@
 | 기술 | **Spring, Java, Ajax** | **JSP, Java, JSTL** |
 | Github | <a href="https://github.com/GEONU-MOON/spring-project" target="_blank">Repository</a> | <a href="https://github.com/rilac/insight" target="_blank">Repository</a> |
 | Blog | <a href="" target="_blank">회고</a> | <a href="" target="_blank">회고</a> |
-| 예시 | <img height="190" alt="네비게이션바" src="https://github.com/GEONU-MOON/GEONU-MOON/assets/121227401/ad096377-fc9b-44d3-b87d-7c61b2d2d253"> | <img height="190" alt="메인1" src=""> |
+| 예시 | <img height="190" alt="사진1" src="https://github.com/GEONU-MOON/GEONU-MOON/assets/121227401/ad096377-fc9b-44d3-b87d-7c61b2d2d253"> | <img height="190" alt="사진2" src="https://github.com/GEONU-MOON/GEONU-MOON/assets/121227401/f6cc3ba0-4e60-4271-8b11-a8a4805d8b8c"> |
 
 <br>
 <br>
