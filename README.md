@@ -9,7 +9,7 @@
 | memozang | 우리의 메모장 | 개인 | 2024.01.19- | Python, Flask | <a href="https://github.com/GEONU-MOON/memozang" target="_blank">Repository</a> | <img height="130" alt="메인1" src="https://github.com/GEONU-MOON/GEONU-MOON/assets/121227401/3b99b95d-c889-46a6-b59b-736e609d08af"> |
 
 
-- 나홀로 메모장 (배포 단계) | 2024.01.13 ~
+- 우리의 메모장 (기능 보완 단계) | 2024.01.19 ~
 
 <br>
 
