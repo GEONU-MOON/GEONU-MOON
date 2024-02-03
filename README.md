@@ -6,10 +6,11 @@
 
 |제목|설명|인원|기간|기술|Github|예시|
 |:---|:---|:---|:---|:---|:---|:---|
-| memozang | 우리의 메모장 | 개인 | 2024.01.19- | Python, Flask | <a href="https://github.com/GEONU-MOON/memozang" target="_blank">Repository</a> | <img height="130" alt="메인1" src="https://github.com/GEONU-MOON/GEONU-MOON/assets/121227401/3b99b95d-c889-46a6-b59b-736e609d08af"> |
+| todo | 투두! | 개인 | 2024.01.20- | Python, Flask | <a href="https://github.com/GEONU-MOON/todo" target="_blank">Repository</a> | <img height="130" alt="메인1" src="https://github.com/GEONU-MOON/GEONU-MOON/assets/121227401/d710250d-7997-46a0-9534-d4c4ca61dcb1"> |
 
 
-- 우리의 메모장 (기능 보완 단계) | 2024.01.19 ~
+- 투두! (배포 단계) | 2024.02.03 ~
+- [투두! 체험해보기](http://13.209.6.174/)
 
 <br>
 
