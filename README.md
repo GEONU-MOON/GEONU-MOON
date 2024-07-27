@@ -22,7 +22,7 @@
 
 ![GEONU-MOON's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEONU-MOON&theme=react&show_icons=true)
 
-## 📫 Connect with Me
+## 🌱 I'm growing
 
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://lilac-devourer-013.notion.site/dbb6527bdf1c4d97b0474f76a3cad217?pvs=4)
 
