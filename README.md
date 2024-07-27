@@ -2,9 +2,9 @@
   <h1>👋 Hello, I'm GEONU MOON!</h1>
   
   ## 🚀 About Me
-  - 🌱 I’m currently learning advanced React and TypeScript.
-  - 💬 Ask me about JavaScript, React, and anything frontend-related.
-  - 📫 How to reach me: <a href="mailto:moondy220965@gmail.com" style="color: #61dafb;">moondy220965@gmail.com</a>
+   🌱 I’m currently learning advanced React and TypeScript.
+   💬 Ask me about JavaScript, React, and anything frontend-related.
+   📫 How to reach me: <a href="mailto:moondy220965@gmail.com" style="color: #61dafb;">moondy220965@gmail.com</a>
 
   ## 🛠 Tech Stack
   <p>
