@@ -20,7 +20,7 @@
   </p>
 
   ## 📈 GitHub Stats
-  <img src="https://github-readme-stats.vercel.app/api?username=GEONU-MOON&theme=react&show_icons=true" alt="GEONU-MOON's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GEONU-MOON&theme=graywhite&show_icons=true" alt="GEONU-MOON's GitHub stats" />
 
   ## 🌱 I'm growing
   <a href="https://lilac-devourer-013.notion.site/dbb6527bdf1c4d97b0474f76a3cad217?pvs=4">
