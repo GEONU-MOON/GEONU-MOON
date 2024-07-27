@@ -1,7 +1,5 @@
 ## 👋 Hello, I'm GEONU MOON!
 
-I'm a passionate Frontend Developer with a love for creating beautiful and functional web applications.
-
 ## 🚀 About Me
 
 - 🌱 I’m currently learning advanced React and TypeScript.
@@ -22,12 +20,10 @@ I'm a passionate Frontend Developer with a love for creating beautiful and funct
 
 ## 📈 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GEONU-MOON&layout=compact&theme=react)
 ![GEONU-MOON's GitHub stats](https://github-readme-stats.vercel.app/api?username=GEONU-MOON&theme=react&show_icons=true)
 
 ## 📫 Connect with Me
 
-[![Blog](https://img.shields.io/badge/instagram-%23E4405F.svg?style=flat-square&logo=instagram&logoColor=white)](https://velog.io/@moondy2209)
 [![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)](https://lilac-devourer-013.notion.site/dbb6527bdf1c4d97b0474f76a3cad217?pvs=4)
 
 ## 🎨 Design Tools
