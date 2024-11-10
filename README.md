@@ -1,6 +1,18 @@
 <div align="center" style="background-color: #282c34; padding: 20px; border-radius: 10px; color: white;">
   <h1>👋 Hello, I'm GEONU MOON!</h1>
   
+
+<a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/GEONU-MOON"
+    width="600"
+    height="120"
+  />
+</a>
+  
+  
+  
+  
   ## 🚀 About Me
    - 🌱 I’m currently learning advanced React and TypeScript.
    - 💬 Ask me about JavaScript, React, and anything frontend-related.
